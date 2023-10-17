@@ -1,1 +1,1 @@
- alx pre course
+updated readme for  alx pre course
