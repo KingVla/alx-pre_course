@@ -1,1 +1,1 @@
-first git readme
+updated readme for first git readme
